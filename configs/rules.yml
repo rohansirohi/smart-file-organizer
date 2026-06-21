@@ -1,0 +1,35 @@
+folders:
+  Images:
+    - .png
+    - .jpg
+    - .jpeg
+    - .gif
+    - .bmp
+    - .webp
+
+  Documents:
+    - .pdf
+    - .txt
+    - .docx
+    - .doc
+
+  Finance:
+    - .xlsx
+    - .xls
+    - .csv
+
+  Archives:
+    - .zip
+    - .rar
+    - .tar
+    - .gz
+
+  Videos:
+    - .mp4
+    - .mkv
+    - .avi
+
+  Audio:
+    - .mp3
+    - .wav
+    - .aac

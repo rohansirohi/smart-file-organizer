@@ -1,0 +1,68 @@
+2026-06-20 14:57:48 - [DRY RUN] Would move: archive.zip -> Archives/
+2026-06-20 14:57:48 - [DRY RUN] Would move: budget.xlsx -> Finance/
+2026-06-20 14:57:48 - [DRY RUN] Would move: invoice.pdf -> Documents/
+2026-06-20 14:57:48 - [DRY RUN] Would move: notes.txt -> Documents/
+2026-06-20 14:57:48 - [DRY RUN] Would move: photo.png -> Images/
+2026-06-20 14:57:48 - [DRY RUN] Would move: song.mp3 -> Audio/
+2026-06-20 14:59:15 - Moved: archive.zip -> Archives/
+2026-06-20 14:59:15 - Moved: budget.xlsx -> Finance/
+2026-06-20 14:59:15 - Moved: invoice.pdf -> Documents/
+2026-06-20 14:59:15 - Moved: notes.txt -> Documents/
+2026-06-20 14:59:15 - Moved: photo.png -> Images/
+2026-06-20 14:59:15 - Moved: song.mp3 -> Audio/
+2026-06-20 15:01:13 - [DRY RUN] Would move: desktop.ini -> Others/
+2026-06-20 15:01:52 - [DRY RUN] Would move: desktop.ini -> Others/
+2026-06-20 15:02:12 - [DRY RUN] Would move: ai-agent-developer-100-project-portfolio-roadmap.pdf -> Documents/
+2026-06-20 15:02:12 - [DRY RUN] Would move: AnyDesk.exe -> Others/
+2026-06-20 15:02:12 - [DRY RUN] Would move: beginners_python_cheat_sheet_pcc.pdf -> Documents/
+2026-06-20 15:02:12 - [DRY RUN] Would move: beginners_python_cheat_sheet_pcc_all (1).pdf -> Documents/
+2026-06-20 15:02:12 - [DRY RUN] Would move: beginners_python_cheat_sheet_pcc_all.pdf -> Documents/
+2026-06-20 15:02:12 - [DRY RUN] Would move: beginners_python_cheat_sheet_pcc_all_bw.pdf -> Documents/
+2026-06-20 15:02:12 - [DRY RUN] Would move: beginners_python_cheat_sheet_pcc_git.pdf -> Documents/
+2026-06-20 15:02:12 - [DRY RUN] Would move: Codex Installer.exe -> Others/
+2026-06-20 15:02:12 - [DRY RUN] Would move: CursorUserSetup-x64-3.7.42.exe -> Others/
+2026-06-20 15:02:12 - [DRY RUN] Would move: desktop.ini -> Others/
+2026-06-20 15:02:12 - [DRY RUN] Would move: Git-2.54.0-64-bit.exe -> Others/
+2026-06-20 15:02:12 - [DRY RUN] Would move: Microsoft.Services.Store.winmd -> Others/
+2026-06-20 15:02:12 - [DRY RUN] Would move: OBS-Studio-32.1.2-Windows-x64-Installer.exe -> Others/
+2026-06-20 15:02:12 - [DRY RUN] Would move: python-3.14.6-amd64.exe -> Others/
+2026-06-20 15:02:12 - [DRY RUN] Would move: Unconfirmed 546942.crdownload -> Others/
+2026-06-20 15:02:12 - [DRY RUN] Would move: Unconfirmed 8659.crdownload -> Others/
+2026-06-20 15:02:12 - [DRY RUN] Would move: VSCodeUserSetup-x64-1.124.2.exe -> Others/
+2026-06-20 15:02:12 - [DRY RUN] Would move: ZoomInstallerFull.exe -> Others/
+2026-06-20 15:03:24 - Moved: desktop.ini -> Others/
+2026-06-20 15:04:03 - Moved: ai-agent-developer-100-project-portfolio-roadmap.pdf -> Documents/
+2026-06-20 15:04:03 - Moved: AnyDesk.exe -> Others/
+2026-06-20 15:04:03 - Moved: beginners_python_cheat_sheet_pcc.pdf -> Documents/
+2026-06-20 15:04:03 - Moved: beginners_python_cheat_sheet_pcc_all (1).pdf -> Documents/
+2026-06-20 15:04:03 - Moved: beginners_python_cheat_sheet_pcc_all.pdf -> Documents/
+2026-06-20 15:04:03 - Moved: beginners_python_cheat_sheet_pcc_all_bw.pdf -> Documents/
+2026-06-20 15:04:03 - Moved: beginners_python_cheat_sheet_pcc_git.pdf -> Documents/
+2026-06-20 15:04:03 - Moved: Codex Installer.exe -> Others/
+2026-06-20 15:04:03 - Moved: CursorUserSetup-x64-3.7.42.exe -> Others/
+2026-06-20 15:04:03 - Moved: desktop.ini -> Others/
+2026-06-20 15:04:03 - Moved: Git-2.54.0-64-bit.exe -> Others/
+2026-06-20 15:04:03 - Moved: Microsoft.Services.Store.winmd -> Others/
+2026-06-20 15:04:03 - Moved: OBS-Studio-32.1.2-Windows-x64-Installer.exe -> Others/
+2026-06-20 15:04:03 - Moved: python-3.14.6-amd64.exe -> Others/
+2026-06-20 15:04:03 - Moved: Unconfirmed 546942.crdownload -> Others/
+2026-06-20 15:04:03 - Moved: Unconfirmed 8659.crdownload -> Others/
+2026-06-20 15:04:03 - Moved: VSCodeUserSetup-x64-1.124.2.exe -> Others/
+2026-06-20 15:04:03 - Moved: ZoomInstallerFull.exe -> Others/
+2026-06-20 16:51:05 - Moved: ai-agent-developer-100-project-portfolio-roadmap.pdf -> Documents/
+2026-06-20 16:51:05 - Moved: AnyDesk.exe -> Others/
+2026-06-20 16:51:05 - Moved: beginners_python_cheat_sheet_pcc.pdf -> Documents/
+2026-06-20 16:51:05 - Moved: beginners_python_cheat_sheet_pcc_all.pdf -> Documents/
+2026-06-20 16:51:05 - Moved: beginners_python_cheat_sheet_pcc_all_bw.pdf -> Documents/
+2026-06-20 16:51:05 - Moved: beginners_python_cheat_sheet_pcc_git.pdf -> Documents/
+2026-06-20 16:51:05 - Moved: Codex Installer.exe -> Others/
+2026-06-20 16:51:05 - Moved: CursorUserSetup-x64-3.7.42.exe -> Others/
+2026-06-20 16:51:05 - Moved: Git-2.54.0-64-bit.exe -> Others/
+2026-06-20 16:51:05 - Moved: Microsoft.Services.Store.winmd -> Others/
+2026-06-20 16:51:05 - Moved: OBS-Studio-32.1.2-Windows-x64-Installer.exe -> Others/
+2026-06-20 16:51:05 - Moved: python-3.14.6-amd64.exe -> Others/
+2026-06-20 16:51:05 - Moved: smart-file-organizer-beginner-guide.pdf -> Documents/
+2026-06-20 16:51:05 - Moved: Unconfirmed 546942.crdownload -> Others/
+2026-06-20 16:51:05 - Moved: Unconfirmed 8659.crdownload -> Others/
+2026-06-20 16:51:05 - Moved: VSCodeUserSetup-x64-1.124.2.exe -> Others/
+2026-06-20 16:51:05 - Moved: ZoomInstallerFull.exe -> Others/
