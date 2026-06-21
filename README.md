@@ -10,6 +10,22 @@ A simple, beginner-friendly command-line tool that automatically organizes messy
 - 📝 Logging — every action is recorded in `organizer.log`
 - 💻 Clean CLI built with [Typer](https://typer.tiangolo.com/)
 
+## 🧠 How It Works
+
+```mermaid
+flowchart TD
+    A[User runs CLI command] --> B[main.py: validate folder path]
+    B --> C[organizer.py: load_rules from rules.yml]
+    C --> D[Loop through every file in folder]
+    D --> E[get_destination: match file extension to a category]
+    E --> F{Dry run mode?}
+    F -- Yes --> G[Print preview, log action]
+    F -- No --> H[Move file to destination folder]
+    H --> I[Log action to organizer.log]
+    G --> J[Done ✅]
+    I --> J[Done ✅]
+```
+
 ## 📸 Example
 
 **Before:**
@@ -46,21 +62,6 @@ messy_folder/
 
 └── archive.zip
 
-## 🧠 How It Works
-
-```mermaid
-flowchart TD
-    A[User runs CLI command] --> B[main.py: validate folder path]
-    B --> C[organizer.py: load_rules from rules.yml]
-    C --> D[Loop through every file in folder]
-    D --> E[get_destination: match file extension to a category]
-    E --> F{Dry run mode?}
-    F -- Yes --> G[Print preview, log action]
-    F -- No --> H[Move file to destination folder]
-    H --> I[Log action to organizer.log]
-    G --> J[Done ✅]
-    I --> J[Done ✅]
-```
 
 ## 🚀 Installation
 
